@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/openplay-test-app/static/css/main.0c58ad19.chunk.css",
+    "main.js": "/openplay-test-app/static/js/main.e0e4738b.chunk.js",
+    "main.js.map": "/openplay-test-app/static/js/main.e0e4738b.chunk.js.map",
+    "runtime-main.js": "/openplay-test-app/static/js/runtime-main.2ea3d88b.js",
+    "runtime-main.js.map": "/openplay-test-app/static/js/runtime-main.2ea3d88b.js.map",
+    "static/css/2.83402b49.chunk.css": "/openplay-test-app/static/css/2.83402b49.chunk.css",
+    "static/js/2.55dfe5d8.chunk.js": "/openplay-test-app/static/js/2.55dfe5d8.chunk.js",
+    "static/js/2.55dfe5d8.chunk.js.map": "/openplay-test-app/static/js/2.55dfe5d8.chunk.js.map",
+    "static/js/3.efc1c620.chunk.js": "/openplay-test-app/static/js/3.efc1c620.chunk.js",
+    "static/js/3.efc1c620.chunk.js.map": "/openplay-test-app/static/js/3.efc1c620.chunk.js.map",
+    "index.html": "/openplay-test-app/index.html",
+    "static/css/2.83402b49.chunk.css.map": "/openplay-test-app/static/css/2.83402b49.chunk.css.map",
+    "static/css/main.0c58ad19.chunk.css.map": "/openplay-test-app/static/css/main.0c58ad19.chunk.css.map",
+    "static/js/2.55dfe5d8.chunk.js.LICENSE.txt": "/openplay-test-app/static/js/2.55dfe5d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea3d88b.js",
+    "static/css/2.83402b49.chunk.css",
+    "static/js/2.55dfe5d8.chunk.js",
+    "static/css/main.0c58ad19.chunk.css",
+    "static/js/main.e0e4738b.chunk.js"
+  ]
+}
